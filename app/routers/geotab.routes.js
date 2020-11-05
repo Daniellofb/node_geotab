@@ -1,5 +1,5 @@
 module.exports = app => {
-    const creatives = require("../controllers/tutorial.controller.js");
+    const creatives = require("../controllers/geotab.controller");
   
     var router = require("express").Router();
   

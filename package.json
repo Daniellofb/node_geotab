@@ -12,7 +12,8 @@
     "sequelize",
     "mysql",
     "rest",
-    "api"
+    "api",
+    "pg"
   ],
   "author": "Ayuntamiento de Xalapa",
   "license": "ISC",
@@ -21,6 +22,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "pg": "^8.4.2"
   }
 }
